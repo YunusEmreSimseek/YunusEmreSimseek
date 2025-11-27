@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Yunus Emre Şimşek</h1>
-<h3 align="left">🚀 iOS Developer | Swift & SwiftUI Enthusiast</h3>
+<h3 align="left">🚀 iOS Developer | Swift • SwiftUI • UIKit Enthusiast</h3>
 <h3 align="left">📍 4th Year Computer Engineering Student at Isparta University of Applied Sciences</h3>
 
 ---
 
 ### 🧑‍💻 About Me  
-- 🌱 Currently **focusing on Swift & SwiftUI** to develop modern, high-performance iOS applications.  
+- 🌱 Currently **focusing on Swift • SwiftUI • UIKit** to develop modern, high-performance iOS applications.  
 - 📱 Passionate about **mobile app development** and building seamless **user experiences**.  
-- 📚 Always learning and improving myself in **iOS, SwiftUI, Combine, and MVVM architecture**.  
+- 📚 Always learning and improving myself in **iOS, SwiftUI, UIKit, Combine, and MVVM architecture**.  
 - 📫 How to reach me: **yemresimseek@gmail.com**
 
 ---
