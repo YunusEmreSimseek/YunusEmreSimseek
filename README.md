@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Yunus Emre Şimşek</h1>
-<h3 align="left">🚀 iOS Developer | Swift • SwiftUI • UIKit Enthusiast</h3>
+<h3 align="left">🚀 iOS Developer | Swift • SwiftUI • UIKit</h3>
 <h3 align="left">📍 4th Year Computer Engineering Student at Isparta University of Applied Sciences</h3>
 
 ---
